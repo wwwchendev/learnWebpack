@@ -1,0 +1,2 @@
+(()=>{"use strict";console.log("YES"),console.log("YES"),console.log("YES"),console.log(3),console.log(1);let o=document.getElementById("num"),e=0;document.getElementById("btn").addEventListener("click",(l=>{e+=1,o.textContent=e,console.log("YES")}));const l=new class{#o=1};console.log("tt.a",l.a)})();
+//# sourceMappingURL=bundle-38a478d063146bbc0be4.js.map

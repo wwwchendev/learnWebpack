@@ -1,0 +1,22 @@
+h1{
+    font-weight: 900;
+}
+
+div{
+    width: 600px;
+    height: 400px;
+    // background-color: rgb(221, 255, 127);
+    background-image: url("./gif01.gif");
+    background-position: top ;
+    background-size: cover;
+    margin: 20px 0;
+    font-size: 50px;
+    color: #ffffff;
+    padding: 20px;
+}
+
+button{
+    width: 640px;
+    padding: 20px;
+    font-size: 16px;
+}
